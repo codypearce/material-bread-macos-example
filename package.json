@@ -13,7 +13,7 @@
     "babel-plugin-module-resolver": "^3.2.0",
     "material-bread": "0.2.4",
     "react": "16.2.0",
-    "react-native-macos": "0.19.2"
+    "react-native-macos": "0.68.59"
   },
   "devDependencies": {
     "babel-jest": "24.7.1",
